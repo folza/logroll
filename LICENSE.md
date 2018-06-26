@@ -22,4 +22,3 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 This software is a derivative of the original LogRoll project.
-The license of the original project is available at original-LICENSE.md.
